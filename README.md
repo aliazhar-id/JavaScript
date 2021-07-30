@@ -1,2 +1,2 @@
 # JavaScript
-this is the result of the javascript learning material
+### javascript learning material, include Basic, Document Object Model, and Advanced
